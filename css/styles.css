@@ -1,0 +1,55 @@
+ body{
+  width:50%;
+  margin: auto;
+  /* background-color: #508c9b; */
+  /* text-align: center; */
+} 
+html {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+   background-color: #f0f0f0; 
+  color:black;
+}
+.options{
+  display: flex;
+  justify-content: space-between;
+}
+.form-container {
+  margin-top: 30px;
+  width:50%;
+  padding: 20px 50px;
+  border: 1px solid #ccc;
+  background-color:#7D8ABC;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.form-container input[type="text"] {
+  width: 75%;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+#data{
+  
+  background-color:#7D8ABC;
+  width:100%;
+}
+.hidden{
+  display: none;
+}
+.product-item {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product-item .col-2 {
+  width: 33.33%;
+  box-sizing: border-box;
+  padding: 5px;
+
+}
+.b{
+  font-weight: bold;
+}

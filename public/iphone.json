@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+        "product_id": 2,
+        "product_url": "iphone12",
+        "product_name": "Iphone 12",
+        "description_id": 1,
+        "product_brief_description": "Lots to love. Less to spend.",
+        "product_description": "You can either pay for your new iPhone in full or pay monthly with carrier financing, iPhone Payments, the iPhone Upgrade Program, and now Apple Card Monthly Installments. Your carrier service plan will be charged separately. Just choose the option that works for you.l enough to be called Pro.",
+        "product_img": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-13-pro-sierra-blue-back.png?v=b3d8c0ae",
+        "product_link": "https://www.apple.com/shop/buy-iphone/iphone-11-pro",
+        "price_id": 1,
+        "starting_price": "$449",
+        "price_range": "From $18.70/mo. or $449 with trade-in.*"
+        },
+        {
+        "product_id": 3,
+        "product_url": "iphone13",
+        "product_name": "Iphone 13",
+        "description_id": 2,
+        "product_brief_description": "Lots to love. Less to spend.",
+        "product_description": "iPhone SE packs our most powerful chip into our most popular size at our most affordable price. It’s just what you’ve been waiting for.",
+        "product_img": "https://www.optus.com.au/content/dam/optus/images/shop/mobile/phones/apple/iphone-15/og-image/og-apple-iphone15.jpg",
+        "product_link": "https://www.apple.com/shop/buy-iphone/iphone-11-pro",
+        "price_id": 2,
+        "starting_price": "$679",
+        "price_range": "From $28.29/mo. or $679 with trade-in.*"
+        },
+        {
+        "product_id": 4,
+        "product_url": "iphone14",
+        "product_name": "Iphone 14",
+        "description_id": 3,
+        "product_brief_description": "Lots to love. Less to spend.",
+        "product_description": "iPhone SE packs our most powerful chip into our most popular size at our most affordable price. It’s just what you’ve been waiting for.",
+        "product_img": "https://s7d1.scene7.com/is/image/dish/2020-apple-iphone-12-black-front?$ProductBase$&fmt=webp-alpha",
+        "product_link": "https://www.apple.com/shop/buy-iphone/iphone-11-pro",
+        "price_id": 3,
+        "starting_price": "$999",
+        "price_range": "From $28.29/mo. or $679 with trade-in.*"
+        }
+]
+
+}
